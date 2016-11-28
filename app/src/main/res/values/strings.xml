@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StackOverflow RealImage</string>
+    <string name="stack_overflow_login">StackOverflow Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="your_questions">Your Questions</string>
+    <string name="stackoverflow_questions">StackOverflow Questions</string>
+</resources>
